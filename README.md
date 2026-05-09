@@ -57,6 +57,22 @@ The goal of Day 3 was to connect the Excel dataset with Python and perform basic
 
 ---
 
+## 🎯 Objective (Day 4)
+
+The goal of Day 4 was to perform deeper sales analysis using Python by calculating maximum, minimum, and average sales values.
+
+---
+
+## 🛠️ Work Done (Day 4)
+
+- Calculated maximum sales values
+- Calculated minimum sales values
+- Improved sales analysis logic
+- Enhanced future sales prediction
+- Practiced Python data analysis using pandas
+
+---
+
 ## 📂 Project Structure
 
 ```text
@@ -101,11 +117,12 @@ This dataset is being used for probability calculations, trend analysis, and for
 
 ## 📅 Progress Log
 
-| Date  | Work Done                                    | Progress |
-| ----- | -------------------------------------------- | -------- |
-| Day 1 | Repository setup and file creation           | 5%       |
-| Day 2 | Dataset creation and Excel file organization | 15%      |
-| Day 3 | Python integration and basic forecasting     | 35%      |
+| Date  | Work Done                                     | Progress |
+| ----- | --------------------------------------------- | -------- |
+| Day 1 | Repository setup and file creation            | 5%       |
+| Day 2 | Dataset creation and Excel file organization  | 15%      |
+| Day 3 | Python integration and basic forecasting      | 35%      |
+| Day 4 | Sales trend analysis and improved forecasting | 50%      |
 
 ---
 

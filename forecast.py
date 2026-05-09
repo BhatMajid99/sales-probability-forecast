@@ -3,15 +3,26 @@ import pandas as pd
 # Read Excel file
 data = pd.read_excel("sales_data.xlsx")
 
-# Show complete data
-print("Sales Data:\n")
+# Show dataset
+print("Sales Dataset:\n")
 print(data)
 
-# Find average sales
-average = data["Units Sold"].mean()
+# Average sales
+average_sales = data["Units Sold"].mean()
 
-# Show average
-print("\nAverage Units Sold:", average)
+# Maximum sales
+max_sales = data["Units Sold"].max()
 
-# Predict next month sales
-print("\nPredicted Sales for Next Month:", round(average))
+# Minimum sales
+min_sales = data["Units Sold"].min()
+
+# Predicted future sales
+predicted_sales = round(average_sales)
+
+print("\nAverage Units Sold:", average_sales)
+
+print("Maximum Units Sold:", max_sales)
+
+print("Minimum Units Sold:", min_sales)
+
+print("\nPredicted Sales For Next Month:", predicted_sales)
