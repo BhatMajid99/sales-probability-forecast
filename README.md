@@ -73,6 +73,20 @@ The goal of Day 4 was to perform deeper sales analysis using Python by calculati
 
 ---
 
+## 🎯 Objective (Day 5)
+
+The goal of Day 5 was to apply probability concepts on sales data and improve forecasting analysis.
+
+---
+
+## 🛠️ Work Done (Day 5)
+
+- Applied probability concepts on sales dataset
+- Calculated probability of above-average sales
+- Identified highest selling product
+- Improved project output formatting
+- Enhanced sales forecasting analysis
+
 ## 📂 Project Structure
 
 ```text
@@ -117,12 +131,13 @@ This dataset is being used for probability calculations, trend analysis, and for
 
 ## 📅 Progress Log
 
-| Date  | Work Done                                     | Progress |
-| ----- | --------------------------------------------- | -------- |
-| Day 1 | Repository setup and file creation            | 5%       |
-| Day 2 | Dataset creation and Excel file organization  | 15%      |
-| Day 3 | Python integration and basic forecasting      | 35%      |
-| Day 4 | Sales trend analysis and improved forecasting | 50%      |
+| Date  | Work Done                                                  | Progress |
+| ----- | ---------------------------------------------------------- | -------- |
+| Day 1 | Repository setup and file creation                         | 5%       |
+| Day 2 | Dataset creation and Excel file organization               | 15%      |
+| Day 3 | Python integration and basic forecasting                   | 35%      |
+| Day 4 | Sales trend analysis and improved forecasting              | 50%      |
+| Day 5 | Probability analysis and advanced forecasting improvements | 65%      |
 
 ---
 
