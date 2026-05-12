@@ -85,7 +85,23 @@ The goal of Day 5 was to apply probability concepts on sales data and improve fo
 - Calculated probability of above-average sales
 - Identified highest selling product
 - Improved project output formatting
-- Enhanced sales forecasting analysis
+- Enhanced sales forecasting
+
+---
+
+## 🎯 Objective (Day 6)
+
+The goal of Day 6 was to improve forecasting analysis by adding revenue calculations and product-wise sales analysis.
+
+---
+
+## 🛠️ Work Done (Day 6)
+
+- Calculated total revenue from dataset
+- Implemented product-wise sales analysis
+- Improved forecasting insights
+- Applied grouping operations using pandas
+- Enhanced overall project analysis
 
 ## 📂 Project Structure
 
@@ -138,6 +154,7 @@ This dataset is being used for probability calculations, trend analysis, and for
 | Day 3 | Python integration and basic forecasting                   | 35%      |
 | Day 4 | Sales trend analysis and improved forecasting              | 50%      |
 | Day 5 | Probability analysis and advanced forecasting improvements | 65%      |
+| Day 6 | Revenue analysis and product-wise sales forecasting        | 78%      |
 
 ---
 
