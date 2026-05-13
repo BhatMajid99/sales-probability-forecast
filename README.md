@@ -103,6 +103,22 @@ The goal of Day 6 was to improve forecasting analysis by adding revenue calculat
 - Applied grouping operations using pandas
 - Enhanced overall project analysis
 
+---
+
+## 🎯 Objective (Day 7)
+
+The goal of Day 7 was to visualize sales data using graphs and improve project presentation.
+
+---
+
+## 🛠️ Work Done (Day 7)
+
+- Added bar graph visualization using matplotlib
+- Visualized product-wise sales trends
+- Improved data presentation and analysis
+- Enhanced forecasting project output
+- Practiced basic data visualization techniques
+
 ## 📂 Project Structure
 
 ```text
@@ -155,6 +171,7 @@ This dataset is being used for probability calculations, trend analysis, and for
 | Day 4 | Sales trend analysis and improved forecasting              | 50%      |
 | Day 5 | Probability analysis and advanced forecasting improvements | 65%      |
 | Day 6 | Revenue analysis and product-wise sales forecasting        | 78%      |
+| Day 7 | Data visualization and graphical sales analysis            | 90%      |
 
 ---
 

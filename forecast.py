@@ -1,4 +1,5 @@
 import pandas as pd
+import matplotlib.pyplot as plt
 
 # Read Excel file
 data = pd.read_excel("sales_data.xlsx")
@@ -53,3 +54,14 @@ print("\nProbability of Sales Being Above Average:",
 
 print("\nPredicted Sales For Next Month:",
       round(average_sales))
+
+# Graph Section
+product_sales.plot(kind="bar")
+
+plt.title("Product-wise Sales Analysis")
+
+plt.xlabel("Product Name")
+
+plt.ylabel("Units Sold")
+
+plt.show()
