@@ -119,6 +119,22 @@ The goal of Day 7 was to visualize sales data using graphs and improve project p
 - Enhanced forecasting project output
 - Practiced basic data visualization techniques
 
+---
+
+## 🎯 Objective (Day 8)
+
+The goal of Day 8 was to finalize the forecasting project by improving output formatting and exporting analysis results.
+
+---
+
+## 🛠️ Work Done (Day 8)
+
+- Exported forecasting summary to CSV file
+- Improved overall project presentation
+- Finalized forecasting analysis
+- Enhanced output readability
+- Generated automated sales summary report
+
 ## 📂 Project Structure
 
 ```text
@@ -172,16 +188,17 @@ This dataset is being used for probability calculations, trend analysis, and for
 | Day 5 | Probability analysis and advanced forecasting improvements | 65%      |
 | Day 6 | Revenue analysis and product-wise sales forecasting        | 78%      |
 | Day 7 | Data visualization and graphical sales analysis            | 90%      |
+| Day 8 | Project finalization and CSV report generation             | 100%     |
 
 ---
 
 ## 🔮 Future Plans
 
-- Improve forecasting accuracy
-- Add graphical data visualization
-- Perform deeper sales trend analysis
-- Apply advanced probability concepts
-- Build better prediction models
+- Add machine learning based forecasting
+- Improve prediction accuracy using larger datasets
+- Create interactive dashboard for sales analysis
+- Add monthly and yearly forecasting reports
+- Implement advanced statistical analysis
 
 ---
 

@@ -33,6 +33,17 @@ total_records = len(data)
 
 probability = high_sales_count / total_records
 
+# Export summary to CSV
+summary = pd.DataFrame({
+    "Average Sales": [round(average_sales)],
+    "Maximum Sales": [max_sales],
+    "Minimum Sales": [min_sales],
+    "Total Revenue": [total_revenue],
+    "Probability Above Average": [round(probability, 2)]
+})
+
+summary.to_csv("sales_summary.csv", index=False)
+
 # Output section
 print("\n----- Sales Analysis -----")
 
@@ -54,6 +65,8 @@ print("\nProbability of Sales Being Above Average:",
 
 print("\nPredicted Sales For Next Month:",
       round(average_sales))
+
+print("\nSales summary exported successfully!")
 
 # Graph Section
 product_sales.plot(kind="bar")
